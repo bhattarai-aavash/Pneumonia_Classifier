@@ -27,8 +27,7 @@ Ensure you have the necessary dependencies installed:
 
    Download the dataset from the provided Kaggle link and place it in the project directory.
 
-2. **Open and run the `trainer.py` notebook:**
+2. **Open and run the `trainer.ipynb` notebook:**
 
-   ```bash
-   jupyter notebook trainer.py
+   
 
